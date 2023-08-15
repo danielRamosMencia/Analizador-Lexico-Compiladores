@@ -1,0 +1,10 @@
+HOLA mundo
+444  Octal
+
+
+
+Roman Roman
+10 Alternative
+
+40   
+HEXADECimal
